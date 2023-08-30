@@ -1,0 +1,24 @@
+.section {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 0 5px 0 hsl(0, 0%, 75%);
+    margin-top: 10px;
+}
+
+.section__container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    border-bottom: 1px lightgrey solid;
+    padding: 10px;
+}
+
+.section__containerHeader {
+    margin: 0;
+}
+
+@media (max-width: 767px) {
+    .section__containerHeader {
+        margin-bottom: 10px;
+    }
+}
