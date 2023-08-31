@@ -13,7 +13,7 @@ This is a simple, intuitive form for entering things to do, tasks can be marked 
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://annasudy.github.io/To-do_list_react/).
 
 ## Available Scripts
 
