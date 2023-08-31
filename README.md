@@ -1,5 +1,5 @@
 # To do checklist
-![preview](public/images/checklist.png)
+![preview](public/checklist.png)
 ## Demo
 https://annasudy.github.io/To-do_list_react/
 ## About this app
