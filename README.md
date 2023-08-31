@@ -1,3 +1,16 @@
+# To do checklist
+![preview](public/images/checklist.png)
+## Demo
+https://annasudy.github.io/To-do_list-react/
+## About this app
+This is a simple, intuitive form for entering things to do, tasks can be marked as completed and removed from the list created with React without interactions.
+## What I used
+- HTML
+- CSS(flex, media-queries)
+- JAVASCRIPT
+- REACT
+- BEM
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
