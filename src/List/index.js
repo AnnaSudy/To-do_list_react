@@ -1,4 +1,4 @@
-import "./style.css"
+import "./style.css";
 
 const List = ({ tasks, hideDoneTasks }) => (
     <ul className="list">
@@ -11,7 +11,6 @@ const List = ({ tasks, hideDoneTasks }) => (
             </li>
         ))}
     </ul >
-
 );
 
 export default List;

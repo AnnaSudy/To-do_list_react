@@ -1,26 +1,26 @@
-.section__eachButton {
+.buttons__button {
     border: none;
     background-color: transparent;
     color: teal;
     cursor: pointer;
 }
 
-.section__eachButton:hover {
+.buttons__button:hover {
     color: hsl(180, 100%, 45%);
     transition: 1s;
 }
 
-.section__eachButton:disabled {
+.buttons__button:disabled {
     color: lightgrey;
 }
 
 @media (max-width: 767px) {
-    .section__eachButton {
+    .buttons__button {
         width: 100%;
         margin-top: 10px;
     }
 
-    .section__buttons {
+    .buttons {
         width: 100%;
     }
 }
