@@ -1,10 +1,17 @@
 # To do checklist
+
 ![example_image](public/checklist.png)
+
 ## Demo
+
 https://annasudy.github.io/To-do_list_react/
+
 ## About this app
+
 This is a simple, intuitive form for entering things to do, tasks can be marked as completed and removed from the list created with React without interactions.
+
 ## What I used
+
 - HTML
 - CSS(flex, media-queries)
 - JAVASCRIPT
@@ -26,11 +33,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
